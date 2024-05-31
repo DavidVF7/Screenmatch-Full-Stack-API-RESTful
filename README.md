@@ -1,4 +1,4 @@
-# 🎬 Proyecto ScreenMatch v3 - API RESTful y Front End
+# 🎬 Proyecto ScreenMatch - API RESTful y Front End
 
 Este proyecto es la tercera versión del ScreenMatch, desarrollado como parte del programa de formación en Java de Alura Latam en colaboración con Oracle. En esta versión, se ha ampliado la funcionalidad para incluir una API RESTful y se ha conectado con un frontend, mejorando la experiencia del usuario y la gestión de datos de series y episodios.
 
